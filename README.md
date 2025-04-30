@@ -1,4 +1,4 @@
-# Ex--6-AWS-Account-setup-and-S3-creation-
+
 # Ex--6-AWS-Account-setup-and-S3-creation
 
 ## REN NO : 212223220015
